@@ -7,9 +7,8 @@
 - python39
 - pytorch (torch 1.12.1+cu116 used)
 
-## Dataset
-
-## The pre-trained models
+## Dataset and Pre-trained models
+The dataset and the pre-trained model are available from [Google Drive](https://drive.google.com/drive/folders/1u6PI_WarJmE1bYFMG_Z0bH7aGifEsSMT?usp=sharing)
 
 ## Evaluation using VQ-SM for damages
 
